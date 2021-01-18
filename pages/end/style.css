@@ -1,0 +1,26 @@
+* {
+  font-family: Roboto, sans-serif;
+  margin: 0px;
+}
+
+.container {
+  background: orangered;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #FA8072;
+}
+
+.pedido {
+  margin-top: 10px;
+}
+
+.contentCard {
+  border-radius: 5px;
+  padding: 15px;
+  height: 200px;
+  width: 300px;
+  background: #fff;
+}
